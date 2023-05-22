@@ -1,0 +1,14 @@
+batch_size: 4
+beta1: 0.9
+beta2: 0.999
+dataset_name: RDD
+height: 256
+lambda1: 1.0
+lambda2: 0.01
+learning_rate: 0.0002
+loss_function_name: L1
+max_epoch: 400
+model: CBENet
+num_workers: 4
+pretrained: True
+width: 256

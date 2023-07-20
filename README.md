@@ -11,7 +11,7 @@
 
 1. You can obtain RDD dataset from [here](https://github.com/hyyh1314/RDD)
 2. Modify the `config.yaml` to set your parameters
-3. You can configure and run utils/make_dataset.py to generate the csv file you need
+3. You can generate the csv file you need by configuring, running utils/make_dataset.py
 4. Use extractBackground.py to construct the ground-truth background
 5. Training CBENet
 
